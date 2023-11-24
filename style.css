@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 20px;
+    margin: 0;
     padding: 0;
     background-color: #f7f7f7;
     color: #333;
@@ -12,7 +12,9 @@ header {
     text-align: center;
     padding: 10px;
 }
-
+main {
+    margin: 3rem;
+}
 section {
     margin-top: 20px;
 }
